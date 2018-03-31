@@ -104,7 +104,7 @@ export default {
 			}
 
 			let filter = {
-				topics: ['0xdeadbeef']
+				topics: ['0x07678231']
 			};
 
 			if (this.asym) {
